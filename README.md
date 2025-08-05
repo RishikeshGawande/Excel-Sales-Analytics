@@ -39,7 +39,7 @@ This dataset is ideal for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RishikeshGawande/your-repo-name.git
+   git clone https://github.com/RishikeshGawande/Excel-Sales-Analytics.git
 Open reports using any PDF viewer or import into tools like Power BI, Excel, or Tableau.
 
 📞 Contact
